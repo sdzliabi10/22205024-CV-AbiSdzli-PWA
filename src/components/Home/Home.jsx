@@ -1,4 +1,3 @@
-import React from 'react'
 import Type from './Typewritter'
 
 const Home = () => {
@@ -12,7 +11,7 @@ const Home = () => {
   return (
     <div id='Home' className="text-white flex w-full justify-between items-start p-10 md:p-20">
           <div className="md:w-2/4 md:pt-10 mt-8 ">
-            <h1 className="text-sm md:text-3xl font-bold flex leading-normal tracking-tighter">Hello I'M ,</h1>
+            <h1 className="text-sm md:text-3xl font-bold flex leading-normal tracking-tighter">Hello I&apos;M,</h1>
             <h2 className='text-xl md:text-5xl mt-3 font-bold'>Sofiullah Abi Sadzili</h2>
                 <div className="text-xl md:text-2xl tracking-tight mt-6 ">
                   <Type/>

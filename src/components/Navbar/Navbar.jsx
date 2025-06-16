@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 import { FaBars, FaTimes, FaUser, FaPhoneAlt, FaHome, FaTools, FaFileAlt,
   FaBookmark } from "react-icons/fa";
 
@@ -49,7 +49,7 @@ const Navbar = () => {
         isContactVisible ? "text-black" : "text-white"
       }`}
     >
-      <span className="text-xl font-bold tracking-wide">Abi</span>
+      <span className="text-xl font-bold tracking-wide">Abi Sadzili</span>
 
       <ul
         className={`${

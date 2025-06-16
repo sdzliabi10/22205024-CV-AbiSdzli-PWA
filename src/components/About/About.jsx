@@ -1,4 +1,3 @@
-import React from 'react';
 import Tilt from 'react-parallax-tilt';
 import { FaHtml5, FaCss3, FaJs, FaReact, FaLaravel } from "react-icons/fa";
 
@@ -18,7 +17,7 @@ const About = () => {
                 <div className='flex gap-3 py-4'>
                     <span className='w-full md:w-96'>
                         <h1 className='text-xl md:text-2xl font-semibold leading-normal'>
-                            Hi Everyone, I'M Sofiullah Abi Sadzili
+                        Hi Everyone, I&apos;M Sofiullah Abi Sadzili
                         </h1>
                         <p className='text-medium md:text-md leading-tight'>
                             Saya berasal dari Desa Limbangan Kulon, Brebes, dan saya seorang mahasiswa aktif di STMIK YMI Tegal.
